@@ -1,6 +1,6 @@
 # Trilha JS Developer - Pokedex
 
-![pokedex](https://github.com/gabrielrede/desafio-darth-vader/assets/50504781/a53e6c31-be9b-4f86-a2ad-a8842e346ce1)
+![pokedex](https://github.com/gabrielrede/desafio-jean-luc-picard/assets/50504781/f69cef51-6af7-4983-9385-2e1a8e6294d9)
 
 ## Objetivo 🎯
 
