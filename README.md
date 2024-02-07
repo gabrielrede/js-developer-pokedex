@@ -8,7 +8,7 @@ Construindo uma Pokédex com JavaScript, HTML e CSS, desenvolvido a partir de um
 
 ## Autor/Desenvolvido 💻
 
-- Gabriél Rede (eu), com ajuda das aulas do Professor Renan J Paula.
+- console.log('Gabriel_Rede')
 
 ## Futuras/Atualizações🤖
 
